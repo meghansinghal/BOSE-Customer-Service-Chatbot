@@ -3,12 +3,12 @@ AI-powered BOSE Customer Service Chatbot that leverages OpenAI, LangChain, SpaCy
 
 # Features
 
-Conversational AI: Uses OpenAI's language model for natural interactions.
+- Conversational AI: Uses OpenAI's language model for natural interactions.
 
-Document-Based Q&A: Reads and extracts information from PDF documents.
+- Document-Based Q&A: Reads and extracts information from PDF documents.
 
-Memory & Context Handling: Uses LangChain to maintain conversation history.
+- Memory & Context Handling: Uses LangChain to maintain conversation history.
 
-Efficient Search: Implements FAISS for fast similarity-based document retrieval.
+- Efficient Search: Implements FAISS for fast similarity-based document retrieval.
 
-NLP Processing: Utilizes SpaCy and NLTK for text preprocessing and analysis.
+- NLP Processing: Utilizes SpaCy and NLTK for text preprocessing and analysis.
